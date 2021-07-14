@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35888858339",
+    "project_id": "viit-pdf-holder-6fcf5",
+    "storage_bucket": "viit-pdf-holder-6fcf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35888858339:android:6567cea43172333fc171d6",
+        "android_client_info": {
+          "package_name": "com.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35888858339-vov94uqo72bdge9ah14640n1b4cp3rhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglU8I4r-Bj7VdL3xC3xQvv_wx9yGS2es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35888858339-vov94uqo72bdge9ah14640n1b4cp3rhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
